@@ -1,0 +1,11 @@
+id,date,customer,product,quantity,price,region,discount
+1,2025-07-28,John Doe,Widget A,3,19.99,North,0.10
+2,2025-07-28,Jane Smith,Widget B,1,29.99,South,0.00
+3,2025-07-29,Emily Jones,Widget A,2,19.99,East,0.05
+4,2025-07-29,Michael Brown,Widget C,1,24.99,West,0.00
+5,2025-07-29,Ann Clark,Widget B,2,29.99,North,0.15
+6,2025-07-30,Mike Johnson,Widget D,5,14.99,South,0.00
+7,2025-07-30,Linda Lee,Widget A,1,19.99,East,0.00
+8,2025-07-30,David Kim,Widget C,3,24.99,West,0.10
+9,2025-07-31,Susan Park,Widget B,7,29.99,North,0.05
+10,2025-07-31,Robert Young,Widget D,2,14.99,South,0.00
