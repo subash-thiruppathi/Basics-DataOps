@@ -105,3 +105,9 @@ dmypy.json
 # Custom
 airflow-env/
 output/
+
+# Airflow
+airflow.cfg
+airflow.db
+logs/
+webserver_config.py
